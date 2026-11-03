@@ -29,5 +29,3 @@ pytest
 - One problem per file, with a docstring explaining the hardware motivation
 - Every model comes with a pytest
 - Bit-accurate: widths are masked explicitly
-
-- thankyou 
